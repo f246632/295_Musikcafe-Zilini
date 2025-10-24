@@ -1,0 +1,296 @@
+{
+  "business_name": "Musikcafe Zilini",
+  "location": {
+    "address": "Weißenburger Straße 46",
+    "postal_code": "13595",
+    "city": "Berlin",
+    "district": "Wilhelmstadt/Spandau",
+    "country": "Deutschland"
+  },
+  "contact_information": {
+    "phone": {
+      "verified": "+49 30 3329589",
+      "formatted": "030 3329589",
+      "status": "VERIFIED - Matches original CSV data"
+    },
+    "email": {
+      "address": "[email protected]",
+      "status": "NEWLY DISCOVERED - Not in original CSV",
+      "source": "Multiple business directories"
+    },
+    "website": {
+      "url": "https://zilini.de",
+      "status": "VERIFIED",
+      "accessibility": "Website exists but had connection issues during research"
+    }
+  },
+  "operating_hours": {
+    "status": "FOUND - Multiple sources with slight variations",
+    "primary_schedule": {
+      "monday_thursday": "14:00 - 02:00",
+      "friday_saturday": "14:00 - 04:00",
+      "sunday": "14:00 - 00:00"
+    },
+    "alternative_schedule": {
+      "monday_friday": "14:00 - 01:00",
+      "saturday": "12:00 - 03:00",
+      "sunday": "12:00 - 03:00"
+    },
+    "extended_schedule": {
+      "monday_thursday": "09:00 - 04:00",
+      "friday_saturday": "09:00 - 07:00",
+      "sunday": "09:00 - 04:00"
+    },
+    "note": "Multiple sources show different hours. The 14:00 opening time appears most consistent across sources. Weekend hours extend later."
+  },
+  "social_media": {
+    "instagram": {
+      "handle": "@musikcafezilini",
+      "url": "https://www.instagram.com/musikcafezilini/",
+      "status": "VERIFIED - Account exists"
+    },
+    "facebook": {
+      "name": "MusikCafeZilini",
+      "url": "https://www.facebook.com/MusikCafeZilini/",
+      "status": "VERIFIED - Page exists (login required to view full content)"
+    },
+    "tripadvisor": {
+      "status": "NOT FOUND - No TripAdvisor listing identified for this location"
+    }
+  },
+  "online_presence": {
+    "google_maps": {
+      "place_id": "ChIJRWeZsrRXqEcR71e6e1vB4F4",
+      "url": "https://www.google.com/maps/search/?api=1&query=Musikcafe%20Zilini&query_place_id=ChIJRWeZsrRXqEcR71e6e1vB4F4",
+      "status": "VERIFIED"
+    },
+    "yelp": {
+      "url": "https://www.yelp.com/biz/musikcafe-zilini-berlin-2",
+      "status": "Listed"
+    },
+    "restaurant_guru": {
+      "url": "https://restaurantguru.com/Musikcafe-Zilini-Berlin",
+      "rating": "4.7/5",
+      "review_count": 143
+    },
+    "other_listings": [
+      "https://speisekarte.menu/restaurants/berlin/musikcafe-zilini",
+      "https://www.dasoertliche.de",
+      "https://www.11880.com",
+      "https://web2.cylex.de",
+      "https://altamann.com/locations/zilini/"
+    ]
+  },
+  "ratings_overview": {
+    "google_maps": {
+      "rating": "4.5-4.6/5",
+      "review_count": "251 reviews (from one source), 72 reviews (from another source)",
+      "note": "Multiple sources show slightly different counts"
+    },
+    "restaurant_guru": {
+      "rating": "4.7/5",
+      "review_count": 143
+    },
+    "overall_sentiment": "Highly positive - customers praise atmosphere, staff, and rock music ambiance"
+  },
+  "customer_reviews": [
+    {
+      "quote": "Great pub for anyone who likes rock and a rough style... still a really cozy corner... highly recommended.",
+      "rating": "Positive",
+      "language": "English",
+      "source": "Restaurant Guru/Online reviews",
+      "aspects_mentioned": ["rock music", "cozy atmosphere", "recommended"]
+    },
+    {
+      "quote": "Super Kneipe, klasse Wirt tolle Gäste",
+      "translation": "Super pub, great host, great guests",
+      "rating": "Positive",
+      "language": "German",
+      "source": "Online reviews",
+      "aspects_mentioned": ["great host", "great guests", "pub atmosphere"]
+    },
+    {
+      "quote": "immer wieder gute Hardrock-Musik und super nette Leute, man kommt sofort ins Gespräch",
+      "translation": "always good hard rock music and super nice people, you get into conversation immediately",
+      "rating": "Positive",
+      "language": "German",
+      "source": "Online reviews",
+      "aspects_mentioned": ["hard rock music", "friendly people", "social atmosphere"]
+    },
+    {
+      "quote": "Gutes Essen ... breites Auswahl, gute Sitze, nettes Personal und gute Musik",
+      "translation": "Good food... wide selection, good seats, nice staff and good music",
+      "rating": "Positive",
+      "language": "German",
+      "source": "Online reviews",
+      "aspects_mentioned": ["good food", "wide selection", "nice staff", "good music"]
+    },
+    {
+      "quote": "A bike pub, but yet you can also show up here in a fine suit and evening dress without being looked at strangely. And even if it's just a pub, you don't have the usual drinking lots of people here, but mostly really nice people",
+      "rating": "Positive",
+      "language": "English",
+      "source": "Online reviews",
+      "aspects_mentioned": ["inclusive atmosphere", "dresscode flexible", "quality clientele"]
+    }
+  ],
+  "menu_information": {
+    "status": "LIMITED INFORMATION AVAILABLE",
+    "beverages": {
+      "beer": {
+        "description": "Wide selection of beer varieties (Große Auswahl an Biersorten)",
+        "featured": "Schultheiss Bier 0.4l",
+        "emphasis": "Fresh beer, smoky pub atmosphere",
+        "prices": "Not publicly available in detail"
+      },
+      "coffee": {
+        "description": "Delicious coffee mentioned in reviews",
+        "status": "Available but menu details not found"
+      }
+    },
+    "food": {
+      "items_mentioned": [
+        "Berliner (pastries)",
+        "Good food with wide selection"
+      ],
+      "status": "Food is served but detailed menu not found online",
+      "note": "Primarily known as a bar/pub rather than restaurant"
+    },
+    "pricing": {
+      "status": "NOT PUBLICLY AVAILABLE",
+      "note": "Specific prices not listed on accessible online sources"
+    },
+    "payment": {
+      "cash_only": true,
+      "note": "Cash-only establishment"
+    }
+  },
+  "atmosphere_and_features": {
+    "established": "1994",
+    "years_in_business": "30+ years (institution in Wilhelmstadt)",
+    "primary_theme": "Rock music bar and biker pub",
+    "music_style": {
+      "genres": ["Rock", "Hard Rock", "Live Rock Music"],
+      "live_music": "Live performances on weekends",
+      "music_collection": "Huge music collection",
+      "description": "Handmade rock music"
+    },
+    "target_clientele": [
+      "Bikers",
+      "Rock music lovers",
+      "People over 40 years old (typical demographic)",
+      "Anyone wanting to have a good time"
+    ],
+    "atmosphere_descriptors": [
+      "Cozy corner",
+      "Rough style but welcoming",
+      "Friendly and lively",
+      "Smoky pub",
+      "Social - easy to strike up conversations"
+    ],
+    "dress_code": {
+      "style": "Casual to formal - all welcome",
+      "description": "Can wear anything from biker gear to suit and evening dress"
+    },
+    "special_features": [
+      "Live concerts on weekends",
+      "Outdoor seating in summer (tables next to motorcycles)",
+      "Bike-friendly pub",
+      "Sports broadcasts (Sportübertragungen)",
+      "Live events (Live-Veranstaltungen)",
+      "Prompt, accommodating service"
+    ],
+    "seating": {
+      "indoor": "Café seating available",
+      "outdoor": "Summer tables (outdoor seating)",
+      "parking": "Nearby parking at Gatower Straße (777m away)"
+    }
+  },
+  "unique_selling_points": {
+    "heritage": "30+ year institution in Wilhelmstadt since 1994",
+    "community": "Meeting point for bikers and rock music lovers",
+    "inclusivity": "Welcoming to all regardless of dress code or background",
+    "music_focus": "Authentic rock music venue with live performances",
+    "local_character": "Neighborhood pub with loyal local following",
+    "social_atmosphere": "Easy to meet people and strike up conversations",
+    "authenticity": "Traditional Berlin pub experience with rock music culture"
+  },
+  "business_type_classification": [
+    "Musikcafe (Music Cafe)",
+    "Bar",
+    "Pub",
+    "Kneipe (German pub)",
+    "Dive Bar",
+    "Biker Bar",
+    "Rock Music Venue",
+    "Live Music Venue"
+  ],
+  "research_metadata": {
+    "research_date": "2025-10-25",
+    "researcher": "Claude AI Research Agent",
+    "verification_status": {
+      "phone": "VERIFIED - Matches original data",
+      "email": "NEWLY DISCOVERED",
+      "website": "VERIFIED",
+      "hours": "FOUND - Multiple sources with variations",
+      "social_media": "VERIFIED - Instagram and Facebook exist",
+      "reviews": "COMPILED - From multiple sources",
+      "menu": "PARTIAL - Limited information available"
+    },
+    "data_sources": [
+      "Google Maps",
+      "Restaurant Guru (restaurantguru.com)",
+      "Speisekarte.menu",
+      "Das Örtliche (dasoertliche.de)",
+      "11880.com business directory",
+      "Cylex business directory",
+      "Gelbe Seiten",
+      "Yelp",
+      "Berlin.de cafe directory",
+      "Altamann.com",
+      "MetalFlirt.de (venue listings)",
+      "Various online business directories"
+    ],
+    "challenges_encountered": [
+      "Google Maps direct access blocked (429 error)",
+      "Yelp access restricted (403 error)",
+      "Official website (zilini.de) had connection issues",
+      "No TripAdvisor listing found",
+      "Detailed menu and pricing not publicly available",
+      "Operating hours vary across different sources",
+      "Could not access full Facebook page content"
+    ],
+    "data_quality": {
+      "contact_info": "HIGH - Multiple verified sources",
+      "hours": "MEDIUM - Variations across sources",
+      "reviews": "MEDIUM - Good quotes but limited direct Google review access",
+      "menu": "LOW - Very limited specific information available",
+      "social_media": "HIGH - Verified accounts exist"
+    }
+  },
+  "recommendations_for_website": {
+    "highlight_features": [
+      "30+ year heritage (since 1994)",
+      "Live rock music on weekends",
+      "Biker-friendly atmosphere",
+      "Wide beer selection",
+      "Outdoor seating in summer",
+      "Inclusive, welcoming environment",
+      "Easy social atmosphere"
+    ],
+    "target_messaging": [
+      "Rock music lovers",
+      "Biker community",
+      "People seeking authentic Berlin pub experience",
+      "Music event attendees",
+      "Social drinkers looking for conversation"
+    ],
+    "missing_information_to_obtain": [
+      "Detailed beer menu with specific brands and prices",
+      "Food menu items and prices",
+      "Upcoming live music event schedule",
+      "High-resolution photos of interior and events",
+      "Confirmed operating hours (verify with owner)",
+      "Any special offers or happy hours"
+    ]
+  }
+}
